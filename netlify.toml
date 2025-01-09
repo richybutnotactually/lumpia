@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/lumpia.html"
+status = 200
